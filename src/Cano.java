@@ -15,7 +15,7 @@ public class Cano {
 	w: 52
 	h: 270
 	
-	[Pipe Up]
+	 * [Pipe Up]
 	x: 660
 	y: 0
 	w: 52

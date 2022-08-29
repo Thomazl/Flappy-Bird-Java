@@ -157,7 +157,7 @@ public class FlappyBird implements Jogo{
 		case 0:
 			t.imagem("flappy.png", 292, 346, 192, 44, 0, getLargura()/2 - 192/2, 100);
 			t.imagem("flappy.png", 352, 306, 70, 36, 0, getLargura()/2 - 70/2, 175);
-			t.texto("Pressione espaço", 60, getAltura()/2 - 16, 32, Cor.BRANCO);
+			t.texto("Pressione espaï¿½o", 60, getAltura()/2 - 16, 32, Cor.BRANCO);
 			break;
 		case 1:
 			bird.drawItself(t);
